@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -80,6 +81,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578452122,
 	"events": [
 		{
 			"event": 2001,
@@ -189,7 +191,11 @@
 	],
 	"id": 1414743113,
 	"md5": "508e52b118c32870d0223398c6fcd1ab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Scientist.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

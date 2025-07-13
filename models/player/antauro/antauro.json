@@ -38,6 +38,7 @@
 			"name": "funda"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1661203436,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c6c6c4d4b6082ed7c9ec218ff4137ff0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Antauro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

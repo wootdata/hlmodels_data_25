@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -82,6 +83,7 @@
 			"type": 8
 		}
 	],
+	"date": 1651187605,
 	"events": [
 		{
 			"event": 2001,
@@ -191,7 +193,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f7bce901d1a3a0843405cf2fc24dcf7d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Goldie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

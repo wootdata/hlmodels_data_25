@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1024688660,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "38d9fe1401fa6cb0244cf6cce0fd1002",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TFspy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

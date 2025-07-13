@@ -78,6 +78,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -112,6 +113,7 @@
 			"type": 8
 		}
 	],
+	"date": 1733952978,
 	"events": [
 		{
 			"event": 2001,
@@ -221,7 +223,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1f53793cac171e35a92e101a2c0f3fb2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "coach_valve1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

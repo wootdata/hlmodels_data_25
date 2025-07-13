@@ -43,6 +43,7 @@
 			"name": "valve"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1622581742,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1bdb0aa6fe14ce400e3fd60301fac33e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mrvalve3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

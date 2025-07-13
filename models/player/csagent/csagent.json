@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1509887376,
 	"events": [
 		{
 			"event": 2001,
@@ -220,7 +222,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ee56e3c713ffd4fb47b4189d139d127",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csagent.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "bombs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1606894028,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "769dacc973e38dd06243a508572431a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csczds_arctic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

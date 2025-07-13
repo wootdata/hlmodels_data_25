@@ -33,6 +33,7 @@
 			"name": "DAVID_SAIYAJIN"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1618766798,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ae2c2acc276fdf5f8b42fac76f20e94a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CRASH.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

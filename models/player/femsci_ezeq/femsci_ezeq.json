@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578451462,
 	"events": [
 		{
 			"event": 2001,
@@ -195,7 +197,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5f6e7334837aaab0bdf594f512274a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "femsci.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

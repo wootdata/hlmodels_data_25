@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1098045360,
 	"events": [
 		{
 			"event": 2001,
@@ -232,7 +234,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5dedad5cc5ac15a16366080b4ce8d1dc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf1/models/player/soldier/soldier.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
