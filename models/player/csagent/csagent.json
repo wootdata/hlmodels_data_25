@@ -224,6 +224,7 @@
 	"md5": "3ee56e3c713ffd4fb47b4189d139d127",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "csagent.mdl",
 	"preview": true,
 	"readme": false,

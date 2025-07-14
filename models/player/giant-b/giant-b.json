@@ -175,6 +175,7 @@
 	"md5": "4379a692d124b90b92ff27acb4699f66",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/irongiant/irongiant.mdl",
 	"preview": true,
 	"readme": false,

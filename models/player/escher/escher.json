@@ -175,6 +175,7 @@
 	"md5": "98f282cb144232dd5dff2ab1eca4741b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Escher/Escher.mdl",
 	"preview": true,
 	"readme": false,

@@ -180,6 +180,7 @@
 	"md5": "5f8b50c3a3f0b3ba7067a201bdddd56e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gina/Gina.mdl",
 	"preview": true,
 	"readme": false,

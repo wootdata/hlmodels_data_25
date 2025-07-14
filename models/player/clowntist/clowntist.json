@@ -180,6 +180,7 @@
 	"md5": "7e9c4f9d426651554f284251f9c5bfcb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Scientist/Scientist.mdl",
 	"preview": true,
 	"readme": false,

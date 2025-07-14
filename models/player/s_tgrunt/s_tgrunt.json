@@ -175,6 +175,7 @@
 	"md5": "0c57493c266d1cb82f31e0640de3f079",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/s_tgrunt/s_tgrunt.mdl",
 	"preview": true,
 	"readme": false,

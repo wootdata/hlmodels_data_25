@@ -236,6 +236,7 @@
 	"md5": "5dedad5cc5ac15a16366080b4ce8d1dc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tf1/models/player/soldier/soldier.mdl",
 	"preview": false,
 	"readme": false,
