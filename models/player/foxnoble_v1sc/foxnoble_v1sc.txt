@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : foxnoble
+Source Model Hash : f1356432463c49fb451bb3d7b3f0b75e
+Source Model Date : 1263754466 (2010/01/17)
+
+Ported Model Name : foxnoble_v1sc
+Ported Model Hash : 2d929b80ece2108c92207d09a7d4624b
+Ported Model Date : 1752491655 (2025/07/14)

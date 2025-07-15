@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pokerface
+Source Model Hash : e47d912ee7000ccd71229376bfd36d59
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : pokerface_v1sc
+Ported Model Hash : 0bc7ca875471b991282ae3cbb12603a8
+Ported Model Date : 1752492161 (2025/07/14)

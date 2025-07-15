@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_sass_lingerie_2
+Source Model Hash : 90a3477ca5651295f8998e29208b9da7
+Source Model Date : 1645553204 (2022/02/22)
+
+Ported Model Name : gf_sass_sexy_2_v1sc
+Ported Model Hash : ce6456f82d8bc2de80b76e6ae2519714
+Ported Model Date : 1752491695 (2025/07/14)

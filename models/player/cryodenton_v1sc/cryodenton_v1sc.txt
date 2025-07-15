@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cryodenton
+Source Model Hash : 14916f81da0d93245cc110b24990956e
+Source Model Date : 1616876289 (2021/03/27)
+
+Ported Model Name : cryodenton_v1sc
+Ported Model Hash : 11da378a54be3371aa71b9433189b72b
+Ported Model Date : 1752491539 (2025/07/14)

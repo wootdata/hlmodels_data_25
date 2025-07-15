@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : suicidemousev1
+Source Model Hash : 98cbd42f6b6b6a38df0cef0ea198284a
+Source Model Date : 1676689906 (2023/02/17)
+
+Ported Model Name : suicidemousev1_v1sc
+Ported Model Hash : b3e54996034480672c2d3e95347bbe25
+Ported Model Date : 1752492350 (2025/07/14)

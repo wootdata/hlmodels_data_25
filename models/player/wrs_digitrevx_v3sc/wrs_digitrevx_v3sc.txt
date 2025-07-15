@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wrs_digitrevx_v3
+Source Model Hash : 8bf99ed1dfd30509effd93b86a98b826
+Source Model Date : 1642962251 (2022/01/23)
+
+Ported Model Name : wrs_digitrevx_v3sc
+Ported Model Hash : b70bbecbfbbb5d505dff6b9eb2b76de4
+Ported Model Date : 1752492512 (2025/07/14)

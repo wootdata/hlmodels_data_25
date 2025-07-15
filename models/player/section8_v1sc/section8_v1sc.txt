@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : section8
+Source Model Hash : 21610b1c466356ac553fe1bc579a51d9
+Source Model Date : 1264356960 (2010/01/24)
+
+Ported Model Name : section8_v1sc
+Ported Model Hash : 823ce7cf350938d565b7b33402ce776d
+Ported Model Date : 1752492256 (2025/07/14)

@@ -1,0 +1,48 @@
+Author:   ~A.u.s.t.i.N.
+Release:  August 5th, 2000
+__________________________________________________
+
+For use on counter strike and HLDM.
+__________________________________________________
+
+INSALLATION FOR COUNTER-STRIKE
+
+Download the pak explorer and replace any .mdl you would like to replace with Destro.
+Or if you have downloaded a more recent download of CS you can just go into the folders with the mdl's.
+You will then see Destro  in the  game instead of the swats/terrorist u replaced. I suggest you
+replace the terror.mdl with Destro.mdl
+Hope you enjoy it. Make sure to rename the model so it works.
+
+
+
+INSTALLATION FOR HLDM
+
+Create a "destro" or/and  a "destro" folder in this location:  C:\SIERRA\Half-Life\valve\models\player
+And extract the destro.mdl to the same named folder.
+You will not see his picture when you go to select her form the HL options. However once you are in a mutiplayer game, just type this in the console and you'll be all set:   model destro
+Booyaa, ur got yourself a HLDM destro now ;)
+
+~A.u.s.t.i.N.
+
+__________________________________________________
+
+COMMENTS
+
+E-mail me at manny@cgocable.net  or visit  www.hlmatrix.com/manny
+Please do not reskin the model for any purpose.
+Thank you.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : destro_v2
+Source Model Hash : b6e4c756d73c904608fbc287fd6e9658
+Source Model Date : 1583565457 (2020/03/06)
+
+Ported Model Name : destro_v2sc
+Ported Model Hash : dae939c95f60a16eb34d149d17f77990
+Ported Model Date : 1752491595 (2025/07/14)

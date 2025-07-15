@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shinkr_ichimonji
+Source Model Hash : 8c0b7ea6ef1f174813fa2e96347871e0
+Source Model Date : 1721659867 (2024/07/22)
+
+Ported Model Name : shinkr_ichimonji_v1sc
+Ported Model Hash : 68062f23869b589caed61d81c71063b0
+Ported Model Date : 1752492269 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lucario_pokken
+Source Model Hash : abe181c681cceaa49fa805344cf9c468
+Source Model Date : 1607634414 (2020/12/10)
+
+Ported Model Name : lucario_pokken_v1sc
+Ported Model Hash : c77a78b9385c947cad090bcf8fc89a3e
+Ported Model Date : 1752491971 (2025/07/14)

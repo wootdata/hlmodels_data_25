@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oceangate_titan
+Source Model Hash : 448073039ffddd33a37bb64356a98bb7
+Source Model Date : 1687547856 (2023/06/23)
+
+Ported Model Name : oceangate_titan_v1sc
+Ported Model Hash : 2b236532e454687d4f6dbfafc49e1e3f
+Ported Model Date : 1752492112 (2025/07/14)

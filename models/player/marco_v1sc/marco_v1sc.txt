@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marco
+Source Model Hash : bde1a8d5558446c911c7dfba56591cb3
+Source Model Date : 1266054818 (2010/02/13)
+
+Ported Model Name : marco_v1sc
+Ported Model Hash : 1796ade1a3780ad49559d16b6e18a0be
+Ported Model Date : 1752491985 (2025/07/14)

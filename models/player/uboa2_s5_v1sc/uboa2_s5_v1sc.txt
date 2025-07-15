@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboa2_s5
+Source Model Hash : 625b4e509542cdc2ddf8937a6f97029a
+Source Model Date : 1468774935 (2016/07/17)
+
+Ported Model Name : uboa2_s5_v1sc
+Ported Model Hash : dce6226fdcc4bef27b320f312e265c1d
+Ported Model Date : 1752492467 (2025/07/14)

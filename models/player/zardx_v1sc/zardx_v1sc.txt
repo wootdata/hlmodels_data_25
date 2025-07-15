@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zardx
+Source Model Hash : 826a3433bd1f9e99a6b370c085cbaf5f
+Source Model Date : 1653245016 (2022/05/22)
+
+Ported Model Name : zardx_v1sc
+Ported Model Hash : dc61f1d2f2a4efcc79747e313d3b59cf
+Ported Model Date : 1752492527 (2025/07/14)

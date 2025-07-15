@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : capturedgordon
+Source Model Hash : e80e9f9577b56afa009ae1c228bf47d3
+Source Model Date : 1485595459 (2017/01/28)
+
+Ported Model Name : capturedgordon_v1sc
+Ported Model Hash : 4d7f587a36a0326a75aa553c462804a2
+Ported Model Date : 1752491460 (2025/07/14)

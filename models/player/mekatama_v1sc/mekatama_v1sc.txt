@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mekatama
+Source Model Hash : ebfe5ffa5ca874d0cc146747630a3d31
+Source Model Date : 1255461441 (2009/10/13)
+
+Ported Model Name : mekatama_v1sc
+Ported Model Hash : d934494837a4ddb5aeecbbf2f4f049ef
+Ported Model Date : 1752492000 (2025/07/14)

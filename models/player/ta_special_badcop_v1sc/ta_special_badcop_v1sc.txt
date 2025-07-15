@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_special_badcop
+Source Model Hash : 30413f5ca735757abc066f2cae35c1ba
+Source Model Date : 1662795554 (2022/09/10)
+
+Ported Model Name : ta_special_badcop_v1sc
+Ported Model Hash : 02639f0798d7c1a35e4129ccfe14dc6d
+Ported Model Date : 1752492391 (2025/07/14)

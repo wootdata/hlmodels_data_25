@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mayonnaise
+Source Model Hash : b83b8ccbe5469891345350eca0851a6c
+Source Model Date : 1286194407 (2010/10/04)
+
+Ported Model Name : mayonnaise_v1sc
+Ported Model Hash : ec4714b3da01612ef474181dc5f83a29
+Ported Model Date : 1752491995 (2025/07/14)

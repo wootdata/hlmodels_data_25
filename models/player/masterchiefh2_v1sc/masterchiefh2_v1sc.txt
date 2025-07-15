@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : masterchiefh2
+Source Model Hash : 919c0340cd4aa4b5fdc09226c412227d
+Source Model Date : 1266070778 (2010/02/13)
+
+Ported Model Name : masterchiefh2_v1sc
+Ported Model Hash : 60e516c99b182a55e12c9a9ab97125bc
+Ported Model Date : 1752491992 (2025/07/14)

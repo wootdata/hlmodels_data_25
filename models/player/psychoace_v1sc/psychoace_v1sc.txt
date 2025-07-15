@@ -1,0 +1,32 @@
+Skinner: SlimReapeR
+Skin Name: Psychoace
+Model Used: modified punisher model (modified by SlimReapeR)
+
+
+
+
+Installation of Plugin
+
+Create a folder called psychoace  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : psychoace
+Source Model Hash : 40d0e65f74412209295a50d9ae756585
+Source Model Date : 1591053285 (2020/06/01)
+
+Ported Model Name : psychoace_v1sc
+Ported Model Hash : 27e6fd418bfba75a357cefa4b70b8713
+Ported Model Date : 1752492171 (2025/07/14)

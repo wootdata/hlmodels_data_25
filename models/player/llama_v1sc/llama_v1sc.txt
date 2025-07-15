@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : llama
+Source Model Hash : f230984cac75a685d7d997d92476eb5d
+Source Model Date : 1264278366 (2010/01/23)
+
+Ported Model Name : llama_v1sc
+Ported Model Hash : a499ef099b8bfc0f5e4ffa9fece25fd6
+Ported Model Date : 1752491955 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akedo
+Source Model Hash : 5357d8ca5e951e74fe4d4cce12bdd260
+Source Model Date : 1432474693 (2015/05/24)
+
+Ported Model Name : akedo_v1sc
+Ported Model Hash : e6276f7b3dbfb8dfbd345f95a998b4c3
+Ported Model Date : 1752491350 (2025/07/14)

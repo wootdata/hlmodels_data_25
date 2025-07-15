@@ -1,0 +1,43 @@
+15:37 20/08/2006
+
+-----------------------------------
+[player] Sam Fisher
+-----------------------------------
+
+-model:
+
+Body: unknown, gearbox, romka, Rusty, gearbox
+PDA and NVG: ghost ops team, renard, unknown
+
+-skin:
+
+Body: unknown, renard, gearbox, romka, liquidator, Romka, Rusty, A.I.
+PDA and NVG: ghost ops team, renard, unknown
+
+-misc. :
+
+
+Animations: shannon Candwell (sc team?), valve
+Compilation: Renard
+render:renard
+hacks: renard
+pic: ubi soft
+
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sam
+Source Model Hash : 8ebf8111546a1e4ed1109c0e840c41f3
+Source Model Date : 1269690138 (2010/03/27)
+
+Ported Model Name : sam_v1sc
+Ported Model Hash : 1f82bb2ca7331de73cfe40570adab7bf
+Ported Model Date : 1752492233 (2025/07/14)

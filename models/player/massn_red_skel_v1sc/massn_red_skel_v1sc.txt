@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : massn_red_skel
+Source Model Hash : 1dd4266cc67b233da0722526a6316c25
+Source Model Date : 1702619578 (2023/12/14)
+
+Ported Model Name : massn_red_skel_v1sc
+Ported Model Hash : f85463e14a61bed2385224b72733aaee
+Ported Model Date : 1752491992 (2025/07/14)

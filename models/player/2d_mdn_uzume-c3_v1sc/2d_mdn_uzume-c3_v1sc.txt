@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_mdn_tenno_uzume-c3
+Source Model Hash : 2a799612345649f7a40424e4008babbf
+Source Model Date : 1553449904 (2019/03/24)
+
+Ported Model Name : 2d_mdn_uzume-c3_v1sc
+Ported Model Hash : f0a9b3f2be4366ff4272cfc4801cebc5
+Ported Model Date : 1752491316 (2025/07/14)

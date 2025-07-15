@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mechawrs
+Source Model Hash : e20585dad6fe933e2e2aa64127c16d35
+Source Model Date : 1429139132 (2015/04/15)
+
+Ported Model Name : mechawrs_v1sc
+Ported Model Hash : 47fe58f273d826e1630dcdb315dbd5e6
+Ported Model Date : 1752491998 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neptuneman
+Source Model Hash : 197373208a67b4ee0acf6ef76da89fa3
+Source Model Date : 1547309830 (2019/01/12)
+
+Ported Model Name : neptuneman_v1sc
+Ported Model Hash : af6b8a0f871bb3b0520e624be032828f
+Ported Model Date : 1752492090 (2025/07/14)

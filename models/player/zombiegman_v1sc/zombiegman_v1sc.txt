@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombiegman
+Source Model Hash : 71dc17371985e3613d43ae1164a1c673
+Source Model Date : 1263316884 (2010/01/12)
+
+Ported Model Name : zombiegman_v1sc
+Ported Model Hash : b184a67ee7ec6a8bb7f19d252bd8444f
+Ported Model Date : 1752492531 (2025/07/14)

@@ -1,0 +1,21 @@
+touhou_ikusan_h
+
+Model :  Basilico
+
+2016/07/30
+Fixed animations(9mm & 357). Fixed smoothing.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_ikusan_h
+Source Model Hash : bb097d31c0b8dbec53ea77046f68bacc
+Source Model Date : 1469888317 (2016/07/30)
+
+Ported Model Name : touhou_ikusan_h_v1sc
+Ported Model Hash : bc7cf8b5952d84350711cc63a2a2583c
+Ported Model Date : 1752492439 (2025/07/14)

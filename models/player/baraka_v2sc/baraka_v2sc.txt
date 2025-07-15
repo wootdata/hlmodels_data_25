@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : baraka_v2
+Source Model Hash : 8be5994205eeb1828678c1e9ab2fe572
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : baraka_v2sc
+Ported Model Hash : d0b0be67bd9769e7c242e2f955b4fb46
+Ported Model Date : 1752491401 (2025/07/14)

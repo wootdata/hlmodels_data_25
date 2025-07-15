@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk9_cyrax
+Source Model Hash : fe46d5e45b33555351052d17c110b61f
+Source Model Date : 1455420664 (2016/02/13)
+
+Ported Model Name : mk9_cyrax_v1sc
+Ported Model Hash : 06f185bf945862e2468b4918e64858bb
+Ported Model Date : 1752492032 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_soldier1
+Source Model Hash : cd77ff6ff5bb8cc9ce3c50eac40e6add
+Source Model Date : 1265729189 (2010/02/09)
+
+Ported Model Name : para_soldier1_v1sc
+Ported Model Hash : d9a50c73335908f70fdd38bfb3bf5118
+Ported Model Date : 1752492147 (2025/07/14)

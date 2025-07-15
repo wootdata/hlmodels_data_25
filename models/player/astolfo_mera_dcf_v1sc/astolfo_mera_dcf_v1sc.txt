@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : astolfo_mera_dcf
+Source Model Hash : 14d92d8c78707aeeb9c926c746e73ea5
+Source Model Date : 1649459272 (2022/04/08)
+
+Ported Model Name : astolfo_mera_dcf_v1sc
+Ported Model Hash : 089935a49507a13052580f3349fc5a7b
+Ported Model Date : 1752491382 (2025/07/14)

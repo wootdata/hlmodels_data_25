@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_sayu_v2
+Source Model Hash : a70ff7f83a950242cc2d0ff8221c7867
+Source Model Date : 1701332819 (2023/11/30)
+
+Ported Model Name : gi_sayu_v2sc
+Ported Model Hash : 1a098e613bf58253b42cc61190128cba
+Ported Model Date : 1752491724 (2025/07/14)

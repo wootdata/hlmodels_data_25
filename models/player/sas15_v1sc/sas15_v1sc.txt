@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sas15
+Source Model Hash : 6b24844e6926e358b3bd651405afe042
+Source Model Date : 1500481392 (2017/07/19)
+
+Ported Model Name : sas15_v1sc
+Ported Model Hash : f81cf1fda5a3bf1ed78c3b4408c3b642
+Ported Model Date : 1752492237 (2025/07/14)

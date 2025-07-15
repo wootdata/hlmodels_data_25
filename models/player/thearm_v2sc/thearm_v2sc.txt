@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thearm_v2
+Source Model Hash : 2427b11042916eab464c5aec3be33e11
+Source Model Date : 1590442291 (2020/05/25)
+
+Ported Model Name : thearm_v2sc
+Ported Model Hash : 1d8706d9bf6164a4bc957fb3970b6684
+Ported Model Date : 1752492410 (2025/07/14)

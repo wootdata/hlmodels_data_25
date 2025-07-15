@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bluegirlygirl
+Source Model Hash : a3500badec9aeb55a7066552bb15a4f0
+Source Model Date : 1268059002 (2010/03/08)
+
+Ported Model Name : bluegirlygirl_v1sc
+Ported Model Hash : 47056dfb14653ee01fe2fceda73e5284
+Ported Model Date : 1752491437 (2025/07/14)

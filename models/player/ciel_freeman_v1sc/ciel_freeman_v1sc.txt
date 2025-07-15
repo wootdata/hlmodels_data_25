@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ciel_freeman
+Source Model Hash : 70f769a9f915b148ddb6391186b1d738
+Source Model Date : 1700513372 (2023/11/20)
+
+Ported Model Name : ciel_freeman_v1sc
+Ported Model Hash : ef6a22ffb21afde0a41b96f99b173f66
+Ported Model Date : 1752491476 (2025/07/14)

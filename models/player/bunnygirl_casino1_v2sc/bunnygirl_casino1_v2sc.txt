@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bunnygirl_casino1_v2
+Source Model Hash : da79e4d4f4aa1ca611771c39648e449c
+Source Model Date : 1583575569 (2020/03/07)
+
+Ported Model Name : bunnygirl_casino1_v2sc
+Ported Model Hash : 1b2be5821fddb7f1a5f7ea5e0606b2b9
+Ported Model Date : 1752491453 (2025/07/14)

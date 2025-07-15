@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sclosscsniper
+Source Model Hash : d770f249e7d1a0ee3fd6e10da6d34491
+Source Model Date : 1538066464 (2018/09/27)
+
+Ported Model Name : sclosscsniper_v1sc
+Ported Model Hash : 36ecac8647d950faec3ef7cc7e48fdbc
+Ported Model Date : 1752492248 (2025/07/14)

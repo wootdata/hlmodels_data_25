@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q3tf_medic
+Source Model Hash : 1112a35698c1d7ec9e4f275efa3c9e0c
+Source Model Date : 1480232640 (2016/11/26)
+
+Ported Model Name : q3tf_medic_v1sc
+Ported Model Hash : 9a6b36641054fd9b0e7244ae60e7f6e1
+Ported Model Date : 1752492178 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mario64bgranddad
+Source Model Hash : 72b6369f9033c9fe1ff228b3491af426
+Source Model Date : 1624178572 (2021/06/20)
+
+Ported Model Name : mario64bgranddad_v1sc
+Ported Model Hash : 7ca10e3db3989001ef276363f3f016f6
+Ported Model Date : 1752491986 (2025/07/14)

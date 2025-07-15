@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madnessdepclowns
+Source Model Hash : ea959d983277cc0d84bec0c8a70f8b50
+Source Model Date : 1456808825 (2016/02/29)
+
+Ported Model Name : madnessdepclowns_v1sc
+Ported Model Hash : df00747821ae5c2c9aea6779ce683537
+Ported Model Date : 1752491978 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ttf_ion
+Source Model Hash : f73821b17bff1a463fb39e2f4f20c765
+Source Model Date : 1630285740 (2021/08/29)
+
+Ported Model Name : ttf_ion_v1sc
+Ported Model Hash : 8a77ffe1d5b7b7d714be2c3385e4f2fa
+Ported Model Date : 1752492464 (2025/07/14)

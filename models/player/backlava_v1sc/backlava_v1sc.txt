@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : backlava
+Source Model Hash : 2a99b839b13f054ac93545866fe1afbf
+Source Model Date : 1424388426 (2015/02/19)
+
+Ported Model Name : backlava_v1sc
+Ported Model Hash : fd000d16b7d10f3a74f27d6f134019d4
+Ported Model Date : 1752491397 (2025/07/14)

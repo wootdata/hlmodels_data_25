@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ff7vincent_v2
+Source Model Hash : 411ed1db7a2554cc6048acea0f969006
+Source Model Date : 1583874068 (2020/03/10)
+
+Ported Model Name : ff7vincent_v2sc
+Ported Model Hash : 31ce046cb208191d49c64c8a8b194ca8
+Ported Model Date : 1752491650 (2025/07/14)

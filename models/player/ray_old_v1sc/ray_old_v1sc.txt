@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ray_old
+Source Model Hash : 0e02b5b6047136b54b507a2da16ac13a
+Source Model Date : 1269246230 (2010/03/22)
+
+Ported Model Name : ray_old_v1sc
+Ported Model Hash : b6cc0e17cf216c8b249afbb848f23dfc
+Ported Model Date : 1752492189 (2025/07/14)

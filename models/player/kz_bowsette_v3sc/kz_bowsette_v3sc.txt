@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_bowsette_v3
+Source Model Hash : daaa9fb9316270f24cc7f765363864db
+Source Model Date : 1582156471 (2020/02/19)
+
+Ported Model Name : kz_bowsette_v3sc
+Ported Model Hash : 41317396e1ed09cac6c2f6a2514db83d
+Ported Model Date : 1752491915 (2025/07/14)

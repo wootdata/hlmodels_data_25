@@ -1,0 +1,19 @@
+skinner:  TC Bulkley aka. Shadow Master aka Lord Shiva
+skin name: sm_recon
+email: idiotboy@mad.scientist.com
+I did this skin because I felt the recon skin was dull and boring so i gave it a better face and uniform..(in my opinion) 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sm_recon
+Source Model Hash : fff3392d4f8e365ef519b4a652332202
+Source Model Date : 1591300808 (2020/06/04)
+
+Ported Model Name : sm_recon_v1sc
+Ported Model Hash : 82760c43e30ec3e58905587ada0bd4b9
+Ported Model Date : 1752492285 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : guizi2
+Source Model Hash : b1133cbc3eba8f2cbc3bbe5fee005ed8
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : guizi2_v1sc
+Ported Model Hash : 1a91e1e20dc09e253190c877a52da25e
+Ported Model Date : 1752491755 (2025/07/14)

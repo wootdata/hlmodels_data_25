@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doom_marine
+Source Model Hash : b56b058bf851cf78a23b0260f5091c43
+Source Model Date : 1462708420 (2016/05/08)
+
+Ported Model Name : doom_marine_v1sc
+Ported Model Hash : cb990ac18b4ecaf7672cc195f7c22d58
+Ported Model Date : 1752491619 (2025/07/14)

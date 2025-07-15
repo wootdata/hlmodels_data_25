@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bunny_teto_v2
+Source Model Hash : 0de0a480bcfd6e30ca9d30e8362c6032
+Source Model Date : 1563798312 (2019/07/22)
+
+Ported Model Name : bunny_teto_v2sc
+Ported Model Hash : bc637424f98b85779b4d0bc8d6eebb1f
+Ported Model Date : 1752491454 (2025/07/14)

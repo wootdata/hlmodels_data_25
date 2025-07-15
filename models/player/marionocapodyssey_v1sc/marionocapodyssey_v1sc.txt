@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marionocapodyssey
+Source Model Hash : 0911b86fa32f69819d4cdc920cc7d348
+Source Model Date : 1681841612 (2023/04/18)
+
+Ported Model Name : marionocapodyssey_v1sc
+Ported Model Hash : ff2ab9cf9c8f46e7023330eefeac75e1
+Ported Model Date : 1752491987 (2025/07/14)

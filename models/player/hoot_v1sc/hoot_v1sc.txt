@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoot
+Source Model Hash : 298fa4115a32507a4f5e302d1dea3779
+Source Model Date : 1230659398 (2008/12/30)
+
+Ported Model Name : hoot_v1sc
+Ported Model Hash : 037daa2acf4ae1343faeabc9d399f309
+Ported Model Date : 1752491827 (2025/07/14)

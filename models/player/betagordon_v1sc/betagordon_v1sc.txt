@@ -1,0 +1,20 @@
+Gordon model by valve
+Textures by valve
+Textures for the face from doctor.mdl
+Head by Pumpkin_Masher
+Reworked version has body textures by Gurluas
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : betagordon
+Source Model Hash : c0d0bebf190a7e5afef1c55ac20a37b0
+Source Model Date : 1579695795 (2020/01/22)
+
+Ported Model Name : betagordon_v1sc
+Ported Model Hash : 7dae2e14d12173bbe8e80ecb47021d7e
+Ported Model Date : 1752491425 (2025/07/14)

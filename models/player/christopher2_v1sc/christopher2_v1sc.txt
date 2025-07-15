@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : christopher2
+Source Model Hash : 7af358e86dbf03fe05fa3e503eb62e99
+Source Model Date : 1268287371 (2010/03/10)
+
+Ported Model Name : christopher2_v1sc
+Ported Model Hash : bcde937e3e240dc4429ec462bceae066
+Ported Model Date : 1752491474 (2025/07/14)

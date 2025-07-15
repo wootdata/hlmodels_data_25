@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_outbreak_kevin
+Source Model Hash : c26354224f7a935d891ab303b2777494
+Source Model Date : 1236229494 (2009/03/04)
+
+Ported Model Name : re_outbreak_kevin_v1sc
+Ported Model Hash : ecbf02e8ac169eb20cb309227ce5e27a
+Ported Model Date : 1752492210 (2025/07/14)

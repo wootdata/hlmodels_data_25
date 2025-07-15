@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_demo
+Source Model Hash : 2e159258f01e1ddd615b8d7ac69a4a32
+Source Model Date : 1240096930 (2009/04/18)
+
+Ported Model Name : toon_demo_v1sc
+Ported Model Hash : 376fb379d4e49375dab94f07510469ef
+Ported Model Date : 1752492430 (2025/07/14)

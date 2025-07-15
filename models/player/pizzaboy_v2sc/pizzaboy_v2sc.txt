@@ -1,0 +1,23 @@
+Credits
+
+Head/Body Model - Collector
+Original Skin - Collector
+Skin Edit - llamaclock
+Visor and box - llamaclock
+
+This model is intended to be used as a Pizza Boy in RP (role play) servers.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pizzaboy_v2
+Source Model Hash : f529d07222f408817de6e47944c04dc4
+Source Model Date : 1590545689 (2020/05/26)
+
+Ported Model Name : pizzaboy_v2sc
+Ported Model Hash : 60809a2ae60c1544ce8a2e63c09cd304
+Ported Model Date : 1752492158 (2025/07/14)

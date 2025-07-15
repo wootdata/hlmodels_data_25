@@ -1,0 +1,18 @@
+Playermodel made by: TayKlor (From HLDM-BR.NET)
+Texture and 3D Model made by: Cally3D https://sketchfab.com/Cally3D
+Character design by: ninjamuffin99
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fnf_boyfriend_v2
+Source Model Hash : 6b9632ee263f0745ea0044b67776e898
+Source Model Date : 1622347412 (2021/05/29)
+
+Ported Model Name : fnf_boyfriend_v2sc
+Ported Model Hash : fb01585698b1dfed5cd9a62a42931b17
+Ported Model Date : 1752491654 (2025/07/14)

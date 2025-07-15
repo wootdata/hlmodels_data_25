@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ioaf_longcyber
+Source Model Hash : 5b1b85b24a5c6df22983578ad4c84251
+Source Model Date : 1459989964 (2016/04/06)
+
+Ported Model Name : ioaf_longcyber_v1sc
+Ported Model Hash : 9aac6245f71a358fd47476e195994764
+Ported Model Date : 1752491848 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : superamy
+Source Model Hash : 3412328e3505ef61db78b878c1cfb1a6
+Source Model Date : 1269965157 (2010/03/30)
+
+Ported Model Name : superamy_v1sc
+Ported Model Hash : ca6c211ef06259862bca57c2a54a5a03
+Ported Model Date : 1752492350 (2025/07/14)

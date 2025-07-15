@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_neppugia-idol
+Source Model Hash : 311f4ff43237aac09dea14a74ce0b395
+Source Model Date : 1553684772 (2019/03/27)
+
+Ported Model Name : 2d_hdn_nepg-idol_v1sc
+Ported Model Hash : f6e26840d630e623742a84d618753597
+Ported Model Date : 1752491310 (2025/07/14)

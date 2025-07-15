@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trinityboard_v2
+Source Model Hash : 9cb75a5fb75fe4bf7160d2b3cd122e17
+Source Model Date : 1582891873 (2020/02/28)
+
+Ported Model Name : trinityboard_v2sc
+Ported Model Hash : 1264f16c438493a54ff12a28d2b39407
+Ported Model Date : 1752492457 (2025/07/14)

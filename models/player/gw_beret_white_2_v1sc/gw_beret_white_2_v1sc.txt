@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gw_beret_white_2
+Source Model Hash : ec63fca0f0829964edb2db0e18adfaef
+Source Model Date : 1493086748 (2017/04/24)
+
+Ported Model Name : gw_beret_white_2_v1sc
+Ported Model Hash : 6eb23003273bae4c75b6504bb9a4d78d
+Ported Model Date : 1752491758 (2025/07/14)

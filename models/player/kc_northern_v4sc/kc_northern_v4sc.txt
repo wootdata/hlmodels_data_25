@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kc_northern_v4
+Source Model Hash : 0fe4643cb6020395affda652518b8c19
+Source Model Date : 1639691167 (2021/12/16)
+
+Ported Model Name : kc_northern_v4sc
+Ported Model Hash : cc381e947d75037b1d55153985e0ece7
+Ported Model Date : 1752491879 (2025/07/14)

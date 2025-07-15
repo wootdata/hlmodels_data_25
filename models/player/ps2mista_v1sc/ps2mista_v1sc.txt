@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ps2mista
+Source Model Hash : f9fe05d18f52260ac50b77f582dc19a9
+Source Model Date : 1688438063 (2023/07/03)
+
+Ported Model Name : ps2mista_v1sc
+Ported Model Hash : e7cbbe7bffa5cfb6de01533761266667
+Ported Model Date : 1752492169 (2025/07/14)

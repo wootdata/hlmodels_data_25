@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : classicmapguy_v2
+Source Model Hash : 7d0bcb734423e261d7e87e35325b3cb7
+Source Model Date : 1583573034 (2020/03/07)
+
+Ported Model Name : classicmapguy_v2sc
+Ported Model Hash : a221f34d7109c2a49c57b9a01c13787c
+Ported Model Date : 1752491481 (2025/07/14)

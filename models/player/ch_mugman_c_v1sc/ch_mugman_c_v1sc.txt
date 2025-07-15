@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ch_mugman_c
+Source Model Hash : 0d7a94848cac9efccc01f48f2bd76065
+Source Model Date : 1508646848 (2017/10/21)
+
+Ported Model Name : ch_mugman_c_v1sc
+Ported Model Hash : cbb10a4ef48d1a7bd8c223a4c2147f66
+Ported Model Date : 1752491475 (2025/07/14)

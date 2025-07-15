@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhahimikoa
+Source Model Hash : 3c711a798b04f3d73f8b963fbe821d48
+Source Model Date : 1640478810 (2021/12/25)
+
+Ported Model Name : mhahimikoa_v1sc
+Ported Model Hash : f99897c196d8a173d7e22776f873d6ad
+Ported Model Date : 1752492010 (2025/07/14)

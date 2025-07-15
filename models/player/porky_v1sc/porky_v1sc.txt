@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : porky
+Source Model Hash : dea85bf5811d35a761063d5b8eca9c9a
+Source Model Date : 1664141799 (2022/09/25)
+
+Ported Model Name : porky_v1sc
+Ported Model Hash : d21a6644f8f812d3fd02ad419f84ab62
+Ported Model Date : 1752492162 (2025/07/14)

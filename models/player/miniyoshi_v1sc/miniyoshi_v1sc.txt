@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : miniyoshi
+Source Model Hash : 26f59370dbdad54184248812c2fb451a
+Source Model Date : 1375636710 (2013/08/04)
+
+Ported Model Name : miniyoshi_v1sc
+Ported Model Hash : dfcae4227107232fe52a3c79c9aecf9e
+Ported Model Date : 1752492027 (2025/07/14)

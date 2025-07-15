@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : br.pay1
+Source Model Hash : 4ccfb2544563836f6d0a136a42a4af84
+Source Model Date : 1653225153 (2022/05/22)
+
+Ported Model Name : br.pay1_v1sc
+Ported Model Hash : c5f56792ee5b68385d17fd9daad619c2
+Ported Model Date : 1752491446 (2025/07/14)

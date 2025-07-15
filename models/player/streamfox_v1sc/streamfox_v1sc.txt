@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : streamfox
+Source Model Hash : ac9e472629881d3e469a11ae4ba27012
+Source Model Date : 1276091938 (2010/06/09)
+
+Ported Model Name : streamfox_v1sc
+Ported Model Hash : db463c31d10db27d92b88c879ca90fa6
+Ported Model Date : 1752492348 (2025/07/14)

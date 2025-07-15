@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gfl_ak12_alt1_v2
+Source Model Hash : 2e372d815ce884e9d537cb0063fe2a03
+Source Model Date : 1699125533 (2023/11/04)
+
+Ported Model Name : gfl_ak12_alt1_v2sc
+Ported Model Hash : f2df7811820794c30cbb676988c12573
+Ported Model Date : 1752491675 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ab_sakura_kinomoto
+Source Model Hash : 1d1371d38ca4ebeecfd5d73bde4bf1c0
+Source Model Date : 1545253838 (2018/12/19)
+
+Ported Model Name : 2d_ab_sakura_kino_v1sc
+Ported Model Hash : aa845ca3ef96cab3cd31a8782f88cde0
+Ported Model Date : 1752491304 (2025/07/14)

@@ -1,0 +1,16 @@
+male
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : el_chivo
+Source Model Hash : 45f8028a72fb69bebefa3a0ecb7b6fcc
+Source Model Date : 1264845109 (2010/01/30)
+
+Ported Model Name : el_chivo_v1sc
+Ported Model Hash : a460f428e3a06298d3bc668d56100c26
+Ported Model Date : 1752491633 (2025/07/14)

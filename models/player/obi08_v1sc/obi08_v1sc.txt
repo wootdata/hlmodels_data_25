@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : obi08
+Source Model Hash : 2dffa735d5dee1791958de848520a58b
+Source Model Date : 1264747531 (2010/01/28)
+
+Ported Model Name : obi08_v1sc
+Ported Model Hash : d496eb226b4a98fd1b368773b24ee1ba
+Ported Model Date : 1752492112 (2025/07/14)

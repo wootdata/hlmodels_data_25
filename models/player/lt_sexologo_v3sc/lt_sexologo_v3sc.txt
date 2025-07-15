@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_sexologo_v3
+Source Model Hash : fe1046a3aeef411078b07b0b2d67fe60
+Source Model Date : 1615928640 (2021/03/16)
+
+Ported Model Name : lt_sexologo_v3sc
+Ported Model Hash : 45270cd230675e283f9816b7b741ef2b
+Ported Model Date : 1752491970 (2025/07/14)

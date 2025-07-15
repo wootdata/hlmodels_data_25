@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lexi_soldier
+Source Model Hash : be0883a5b1cac18452513ab77d715dd6
+Source Model Date : 1456437874 (2016/02/25)
+
+Ported Model Name : lexi_soldier_v1sc
+Ported Model Hash : 7849cb7197385d37312bc11b5a31157c
+Ported Model Date : 1752491951 (2025/07/14)

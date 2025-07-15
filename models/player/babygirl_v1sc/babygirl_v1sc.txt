@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : babygirl
+Source Model Hash : f29e63fc36a36c3a86f931d0e95a4841
+Source Model Date : 1267788240 (2010/03/05)
+
+Ported Model Name : babygirl_v1sc
+Ported Model Hash : c6b0b7a9145201366396008ea570822a
+Ported Model Date : 1752491396 (2025/07/14)

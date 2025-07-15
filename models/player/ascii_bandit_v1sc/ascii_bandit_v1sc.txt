@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ascii_bandit
+Source Model Hash : 91030ef3705402c5ac8ceb4435db7ccf
+Source Model Date : 1719498333 (2024/06/27)
+
+Ported Model Name : ascii_bandit_v1sc
+Ported Model Hash : 76ca94e798ffbee7d70404c856cc333e
+Ported Model Date : 1752491379 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q3anarki
+Source Model Hash : b812f5052badbae931fc93d4d3b34fbe
+Source Model Date : 1591054560 (2020/06/01)
+
+Ported Model Name : q3anarki_v1sc
+Ported Model Hash : ef0b5859d3378771f863c64b7d47afba
+Ported Model Date : 1752492177 (2025/07/14)

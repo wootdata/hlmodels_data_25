@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cs5.0_arab
+Source Model Hash : a782e42d30b64f2da28c4d262a0e9807
+Source Model Date : 1628400836 (2021/08/07)
+
+Ported Model Name : cs5.0_arab_v1sc
+Ported Model Hash : 68908dfe58a9bbdc2b48114a1b13f0e0
+Ported Model Date : 1752491541 (2025/07/14)

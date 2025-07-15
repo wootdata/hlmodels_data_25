@@ -1,0 +1,25 @@
+Skinner: Bamphalas
+Skin Name: Janitor
+Model: Scientist
+Date: 5-5-99
+
+I've seen an interest by many people for a janitor character in a future Half-Life expansion.  I figured, why wait? 
+Here's a janitor for those who want to make them scientists pay for dirtying up the facility!
+
+"Dem scientists be sum filthy sum bitches! Time ta make dem pay!"
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : janitor
+Source Model Hash : 8e6dd88a64654319a5ae3bd0f9a3fd8c
+Source Model Date : 1429455699 (2015/04/19)
+
+Ported Model Name : janitor_v1sc
+Ported Model Hash : b1e6a8a4b48cb5d217a8ab5604b02ab2
+Ported Model Date : 1752491858 (2025/07/14)

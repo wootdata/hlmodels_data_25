@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_sensei_guy
+Source Model Hash : ddf4d80e30d9acc22ad01e12e66eb2b7
+Source Model Date : 1236392086 (2009/03/06)
+
+Ported Model Name : naruto_sensei_guy_v1sc
+Ported Model Hash : 620731dcd627691aa971f432e67f1ab9
+Ported Model Date : 1752492070 (2025/07/14)

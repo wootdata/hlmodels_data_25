@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rem_nude
+Source Model Hash : c60b45574199794d16aa879f506c7cb7
+Source Model Date : 1319635568 (2011/10/26)
+
+Ported Model Name : rem_nude_v1sc
+Ported Model Hash : 438656c7bcec11883743f72346c7f858
+Ported Model Date : 1752492198 (2025/07/14)

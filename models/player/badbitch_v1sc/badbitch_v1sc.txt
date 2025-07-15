@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : badbitch
+Source Model Hash : 678d56125f9f1231a4c648ddd5eaf48f
+Source Model Date : 1267789116 (2010/03/05)
+
+Ported Model Name : badbitch_v1sc
+Ported Model Hash : af3aa0b49ba8ab7aade30d3bb073e39a
+Ported Model Date : 1752491397 (2025/07/14)

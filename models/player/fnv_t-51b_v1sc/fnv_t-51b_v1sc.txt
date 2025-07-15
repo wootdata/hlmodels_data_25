@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fnv_t-51b
+Source Model Hash : 5420663a306de9201cbb209a511d5284
+Source Model Date : 1592616604 (2020/06/19)
+
+Ported Model Name : fnv_t-51b_v1sc
+Ported Model Hash : de15d030fc376e7ff805257426fc60e2
+Ported Model Date : 1752491654 (2025/07/14)

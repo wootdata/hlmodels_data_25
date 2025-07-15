@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_sieni_gold
+Source Model Hash : 1c4e313b4416cb78e9f1099976b5f138
+Source Model Date : 1485368722 (2017/01/25)
+
+Ported Model Name : alife_sieni_gold_v1sc
+Ported Model Hash : ae4400f0f2427c9ed97df6c207db3a27
+Ported Model Date : 1752491336 (2025/07/14)

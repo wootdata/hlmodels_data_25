@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bb_security3
+Source Model Hash : e8ed264319c7dbc69284426a9885f711
+Source Model Date : 1267794970 (2010/03/05)
+
+Ported Model Name : bb_security3_v1sc
+Ported Model Hash : 94ed6c7fe84183aca8f49394958b48af
+Ported Model Date : 1752491421 (2025/07/14)

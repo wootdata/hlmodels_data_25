@@ -1,0 +1,29 @@
+Skinner: SlimReapeR
+Skin Name: Resurrection
+Model Used: Punisher model by Evil Bastard (modified by SlimReapeR)
+Quake 3 textures have been used in this skin.
+
+Installation of Plugin
+
+Create a folder called resurrection in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : resurrection
+Source Model Hash : 08bf50686cb2d946402b25dc0ef6079e
+Source Model Date : 1269354422 (2010/03/23)
+
+Ported Model Name : resurrection_v1sc
+Ported Model Hash : c3da208f3e9cdb5075e6cbeffb4eacf0
+Ported Model Date : 1752492200 (2025/07/14)

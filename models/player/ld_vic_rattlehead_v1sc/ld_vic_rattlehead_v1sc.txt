@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ld_vic_rattlehead
+Source Model Hash : cc495021a2481d01fc5f1682887f97f9
+Source Model Date : 1700419087 (2023/11/19)
+
+Ported Model Name : ld_vic_rattlehead_v1sc
+Ported Model Hash : aa06d4c006ea4f9ceec841e4a60790c5
+Ported Model Date : 1752491945 (2025/07/14)
