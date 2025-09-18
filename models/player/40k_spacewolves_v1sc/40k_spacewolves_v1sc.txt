@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 40k_spacewolves
+Source Model Hash : 9159387b8743f3fd2a5fd9772fb671e9
+Source Model Date : 1740306457 (2025/02/23)
+
+Ported Model Name : 40k_spacewolves_v1sc
+Ported Model Hash : b7507b8f85ab7a3bb2b0ae135172285c
+Ported Model Date : 1758225722 (2025/09/18)

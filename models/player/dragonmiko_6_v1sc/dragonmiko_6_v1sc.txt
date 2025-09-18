@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dragonmiko_6
+Source Model Hash : b35d3e5c7cca6cc09cc81afc080b5ddb
+Source Model Date : 1740070565 (2025/02/20)
+
+Ported Model Name : dragonmiko_6_v1sc
+Ported Model Hash : 2e023db0cfb154f1a001ab1640ddd597
+Ported Model Date : 1758225733 (2025/09/18)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_hoshino_terror2
+Source Model Hash : fd4405d3d4643dda447211d62fc9f250
+Source Model Date : 1745063640 (2025/04/19)
+
+Ported Model Name : ba_hoshino_ter2_v1sc
+Ported Model Hash : a615c55ad9aa39aaf427ff4dad9c641d
+Ported Model Date : 1758225724 (2025/09/18)
