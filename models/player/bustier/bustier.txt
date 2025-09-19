@@ -1,0 +1,4 @@
+Model: Bustier
+Author: GP40X
+Released: 07/23/01
+Size : 529kb

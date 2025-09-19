@@ -1,0 +1,12 @@
+[ The 57th Platoon Half-Life Squad official Clan Model ] ( what a name ;P )
+========================================================
+
+Type 	: Reskinned Valve-Model
+Author 	: [57th] Raptor ( raptor.gtsda@gmx.net )
+
+--------------------------------------------------------
+
+Comment	:
+This model is the third stage of our Clan-Model to date.
+Its successors are the "ATB" ( hardly used )
+and the "CATB" ( aka "the Veteran" ;) ).

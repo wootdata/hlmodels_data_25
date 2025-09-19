@@ -1,0 +1,18 @@
+Robo GOLD EDITION by [SFS]DoLLaR [AKA Mr_WhiTe]
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/roboGE folder. Then simply select the skin from the Multiplayer Customisation option within the game.
+=============================================
+=============================================
+Skin Name        : Robo GOLD EDITION
+Folder           : /roboGE
+Author           : DoLLaR [Jordan Butters]
+E-Mail           : dollarbill@btinternet.com
+Website          : http://www.stormfront.arecool.net
+Editors used     : MGI Photosuit '97, Wavelength Skin Editing Tutorial,                                     Modviewer by Matthew Wolfe
+Additonal Thanks : 
+==============================================
+Notes            : 
+==============================================
+
+Skin by Jordan Butters
+***NB*** 	If this skin is to be used on a CD or other form of Multimedia Distribution then                 any credit given goes to Jordan Butters. Also, please ask before including it on                 any such distributive method - dollarbill@btinternet.com

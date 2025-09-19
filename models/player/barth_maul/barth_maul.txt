@@ -1,0 +1,4 @@
+"Barth Maul" skin by Don Kinney
+
+Unzip to: \Sierra\HalfLife\Valve\Models\Player directory
+get a little Rebel Scum!

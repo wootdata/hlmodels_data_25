@@ -1,0 +1,28 @@
+[RTM]Mr.Radical for Half-Life
+-----------------------------------------------------
+Author:       	Maggusz (TMW)
+
+Model Name:   	[RTM]Mr.Radical
+Relaese Date:  	20. December 2000
+Files:		[RTM]Mr.Radical.mdl [RTM]Mr.Radical.bmp [RTM]Mr.Radical.txt
+Animations:   	Standard Animations
+Programs Used:	3D Studio MAX R2.5, PaintShopPro7, MilkShape3D 1.4.1.
+
+Description:
+This is the Clan Model of [RTM] with the face of [RTM]Mr.Radical.
+
+Installation:
+Unzip the EXE-file to the Half-Life directory.
+
+Distribution:
+This model can be distributed freely as long as this text file is included.
+
+-------------------------------------
+
+E-mail:	   	Maggusz@gmx.de
+                Milrow@gmx.de
+Homepage:       www.geocities.com/rtm_demmin
+
+-------------------------------------
+
+[RTM] RULEZ
